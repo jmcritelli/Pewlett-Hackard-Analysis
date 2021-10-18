@@ -10,7 +10,7 @@ o	1,941 employees are eligible for the mentorship program.
 
 o	90,398 employees are eligible for retirement in the next couple of years.
 
-o	Managers are not eligible for the mentorship program.
+o	Managers are not eligible for the mentorship program according to the CSV file creates by SQL.
 
 ![csv](https://user-images.githubusercontent.com/88864493/137666418-1ce20b13-54b2-49d2-bb29-0a7edb68cd39.png)
 
